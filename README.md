@@ -57,7 +57,7 @@ I developed a simulation that models the work of an airport control tower.
 
 Compared different sorting algorithms:
 
-[Based on list lenght](comparing_sorting_algorithms.py)
+[Based on number of comparissons made](comparing_sorting_algorithms.py)
 
 ![sortingalgo_listlength](./images/sorting_algorithms.png)
 
