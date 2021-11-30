@@ -64,3 +64,7 @@ Compared different sorting algorithms:
 [Based on execution time](time_sorting_algorithms.py)
 
 ![sortingalgo_time](./images/sorting_algorithms1.png)
+
+[Based on list complexity](insertionsort_listcomplexity.py)
+
+![sortingalgo_time](./images/complexity_sortingalgo.png)
